@@ -1,0 +1,11 @@
+{
+  "name": "notifizz-sdk",
+  "version": "0.1.0",
+  "description": "Node sdk for Notifizz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
